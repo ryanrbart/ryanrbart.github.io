@@ -1,9 +1,17 @@
 ---
-layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+layout: page
+tags: [Ryan Bart, hydrology, ecohydrology, personal website]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: panorama_humphries_basin2_2008.jpg
+  credit: Ryan R. Bart
+  creditlink: http://ryanrbart.com
+share: false
 ---
+
+#About
+
+I am currently a Postdoctoral Scholar in the [Tague Ecohydrology Lab](http://ecohydrolab.com/) at the [Bren School of Environmental Science and Management](http://bren.ucsb.edu) at the [University of California, Santa Barbara](http://ucsb.edu).
+
+#Research Interests
+
+I use ecohydrologic and statistical models to investigate the connections between environmental change, hydrology and ecosystems. A large component of my research to date has involved examining how land-cover change (e.g. fire, vegetation type-conversion), along with climate change, affects streamflow in California watersheds.

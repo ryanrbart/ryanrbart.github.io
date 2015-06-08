@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Ryan R. Bart
 locale:           en_US
 url:              
 
@@ -26,35 +26,15 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
+  name: Ryan R. Bart 
+  avatar: headshot_park_2015_square.jpg
+  bio: "UCSB Postdoc. I study water, among other things."
+  email: ryanrbart@berkeley.edu
+  twitter: ryanrbart
+  google_scholar: Uon6JToAAAAJ
+  github: ryanrbart
+  linkedin: ryanrbart
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
