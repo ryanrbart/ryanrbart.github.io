@@ -36,15 +36,15 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
-      <hr />
-      <footer role="contentinfo">
-             <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
-      {% if page.share != false %}
+<footer role="contentinfo">
+  <div class="article-author-bottom">
+    {% include _author-bio.html %}
+  </div>
+</footer>
+     {% if page.share != false %}
         <hr />
         {% include _social-share.html %}
       {% endif %}
-      </footer>
-
     </div><!-- /.article-wrap -->
     {% if site.owner.disqus-shortname and page.comments == true %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
