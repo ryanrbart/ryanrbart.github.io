@@ -36,11 +36,12 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
-<footer role="contentinfo">
-  <div class="article-author-bottom">
-    {% include _author-bio.html %}
-  </div>
-</footer>
+      <hr />
+       <footer role="contentinfo">
+         <div class="article-author-bottom">
+           {% include _author-bio.html %}
+         </div>
+       </footer>
      {% if page.share != false %}
         <hr />
         {% include _social-share.html %}
