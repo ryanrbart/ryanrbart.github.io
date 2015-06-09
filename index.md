@@ -2,7 +2,7 @@
 layout: page
 tags: [Ryan Bart, hydrology, ecohydrology, personal website]
 image:
-  feature: panorama_humphries_basin2_2008.jpg
+  feature: panorama_bristlecone_2008.jpg
   credit: Ryan R. Bart
   creditlink: http://ryanrbart.com
 share: false
@@ -10,7 +10,7 @@ share: false
 
 #About
 
-I am currently a Postdoctoral Scholar in the [Tague Ecohydrology Lab](http://ecohydrolab.com/) at the [Bren School of Environmental Science and Management](http://bren.ucsb.edu) at the [University of California, Santa Barbara](http://ucsb.edu).
+I am a Postdoctoral Scholar in the [Tague Ecohydrology Lab](http://ecohydrolab.com/) at the [Bren School of Environmental Science and Management](http://bren.ucsb.edu) at the [University of California, Santa Barbara](http://ucsb.edu).
 
 #Research Interests
 
