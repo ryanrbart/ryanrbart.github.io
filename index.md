@@ -6,6 +6,7 @@ image:
   credit: Ryan R. Bart
   creditlink: http://ryanrbart.com
 share: false
+
 ---
 
 #About
