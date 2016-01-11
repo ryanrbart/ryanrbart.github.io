@@ -11,7 +11,7 @@ share: false
 
 #About
 
-I am a Postdoctoral Scholar in the [Tague Ecohydrology Lab](http://ecohydrolab.com/) at the [Bren School of Environmental Science and Management](http://bren.ucsb.edu) at the [University of California, Santa Barbara](http://ucsb.edu).
+I am a Postdoctoral Scholar in the [Tague Ecohydrology Lab](http://tagueteamlab.org/) at the [Bren School of Environmental Science and Management](http://bren.ucsb.edu) at the [University of California, Santa Barbara](http://ucsb.edu).
 
 #Research Interests
 
