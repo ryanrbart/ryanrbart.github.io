@@ -7,7 +7,7 @@ image:
 share: false
 ---
 
-#Publications
+# Publications
 
 --------
 **2016**
