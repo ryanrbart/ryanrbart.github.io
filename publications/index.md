@@ -10,6 +10,11 @@ share: false
 #Publications
 
 --------
+**2016**
+
+* **Bart R**. A Regional Estimate of Post-Fire Streamflow Change in California. *Water Resources Research*, in-press. [doi:10.1002/2014WR016553](http://dx.doi.org/10.1002/2014WR016553)
+
+--------
 **2014**
 
 * **Bart R**, Hope A. [Inter-seasonal variability in baseflow recession rates: The role of aquifer antecedent storage in central California watersheds](/content/bart_hope2014_jh.pdf). *Journal of Hydrology*, 519, 205-213. [doi:10.1016/j.jhydrol.2014.07.020](http://dx.doi.org/10.1016/j.jhydrol.2014.07.020)
