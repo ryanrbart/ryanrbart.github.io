@@ -13,7 +13,8 @@ share: false
 
 This project examines the socio-ecological linkages between fire management actions (e.g. thinning, prescribed fire), fire risk and post-fire effects on ecosystem services such as water resources. We are linking a biophysical model, a fire spread model and an empirical model of fuels treatments with the goal of understanding how fire management practices affect landscape fuel loads, which in turn affect the likelihood of fire, which feed back to management decision-making on fuels treatments. We are also assessing the impact of fuels treatments, fire, and climate change on ecosystem processes such as streamflow and sediment production.
 
-* Key collaborators: [Naomi Tague](http://www.bren.ucsb.edu/people/Faculty/christina_tague.htm), [Max Moritz](http://ourenvironment.berkeley.edu/people_profiles/max-a-moritz/), [Sarah Anderson](http://fiesta.bren.ucsb.edu/~sanderson/), [Andrew Plantinga](http://www.bren.ucsb.edu/people/Faculty/andrew_plantinga.htm)
+* Key collaborators: [Naomi Tague](http://www.bren.ucsb.edu/people/Faculty/christina_tague.htm), [Max Moritz](http://ourenvironment.berkeley.edu/people_profiles/max-a-moritz/), [Sarah Anderson](http://fiesta.bren.ucsb.edu/~sanderson/), [Andrew Plantinga](http://www.bren.ucsb.edu/people/Faculty/andrew_plantinga.htm), [Maureen Kennedy](http://faculty.washington.edu/mkenn/)
+
 
 <a href="/images/seri_model_linkages.png"><img src="/images/seri_model_linkages.png"></a>
 
@@ -35,7 +36,7 @@ Rising temperatures associated with climate change, as well as more frequent dis
 
 Wildfire is a major source of episodic land-cover change in California watersheds and alters numerous components of the streamflow regime. For this project, a mixed-modeling statistical approach was used to quantify the regional effect of wildfire on annual streamflow and baseflow recession rates (i.e. low flows) in California. In addition, a parsimonious storage-discharge model was used to provide insight into the first-order control on baseflow recession rates, antecedent aquifer storage.
 
-* Key collaborator: [Allen Hope](http://geography.sdsu.edu/People/Faculty/hope.html)
+* Key collaborator: [Allen Hope](https://geography.sdsu.edu/people/ahope)
 
 <a href="/images/photo_sespe_creek.jpg"><img src="/images/photo_sespe_creek.jpg"></a>	
 
@@ -45,7 +46,7 @@ Wildfire is a major source of episodic land-cover change in California watershed
 
 This project assimilated satellite data (MODIS) with hydrological modeling to explore how land cover in southern California and the Western Cape Region of South Africa affects hydrological regimes at regional scales. The multiple components of this project included improving predictions of flow duration curves in ungauged basins, evaluating streamflow response to fire in southern California and invasive vegetation in South Africa, and investigating storage configurations and parameter stability of the IHACRES rainfall-runoff model.
 
-* Key collaborators: [Allen Hope](http://geography.sdsu.edu/People/Faculty/hope.html), [Doug Stow](http://geography.sdsu.edu/People/Faculty/stow.html)
+* Key collaborators: [Allen Hope](https://geography.sdsu.edu/people/ahope), [Doug Stow](https://geography.sdsu.edu/people/dstow)
 
 <a href="/images/photo_south_africa_stream.jpg"><img src="/images/photo_south_africa_stream.jpg"></a>
 
