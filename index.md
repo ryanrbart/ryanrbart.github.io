@@ -3,7 +3,7 @@ layout: page
 tags: [Ryan Bart, hydrology, ecohydrology, personal website]
 image:
   feature: panorama_bristlecone_2008.jpg
-  credit: Ryan R. Bart - Ancient Bristlecone Pine Forest
+  credit: Ancient Bristlecone Pine Forest
   creditlink: http://ryanrbart.com
 share: false
 
