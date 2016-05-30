@@ -12,7 +12,7 @@ share: false
 --------
 **2016**
 
-* **Bart R**. A regional estimate of postfire streamflow change in California. *Water Resources Research*, 52, 1465-1478. [doi:10.1002/2014WR016553](http://dx.doi.org/10.1002/2014WR016553)
+* **Bart R**. [A regional estimate of postfire streamflow change in California](/content/bart2016_wrr.pdf). *Water Resources Research*, 52, 1465-1478. [doi:10.1002/2014WR016553](http://dx.doi.org/10.1002/2014WR016553)
 
 --------
 **2014**
