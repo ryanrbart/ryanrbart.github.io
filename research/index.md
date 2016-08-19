@@ -24,7 +24,7 @@ This project examines the socio-ecological linkages between fire management acti
 
 Rising temperatures associated with climate change, as well as more frequent disturbances such as fire, are increasing tree mortality rates in many forested regions of the western U.S. There is also evidence that many of these forests are not regenerating but instead converting to shrubs or grasses. As part of a larger project funded by the California Energy Commission, I am investigating how streamflow in California's Sierra Nevada may respond to potential tree-to-shrub type-conversion. Field measurements of water use among different tree and shrub species are being used to parameterize the <a href ="http://fiesta.bren.ucsb.edu/~rhessys/index.html">Regional Hydro-Ecologic Simulation System (RHESSys)</a> model, and simulations are being conducted under a range of type-conversion and climate change scenarios. The watersheds for this project are located at the <a href ="http://criticalzone.org/sierra/">Southern Sierra Critical Zone Observatory</a>.
 
-* Key collaborators: [Naomi Tague](http://www.bren.ucsb.edu/people/Faculty/christina_tague.htm), [Max Moritz](http://ourenvironment.berkeley.edu/people_profiles/max-a-moritz/), [Sara Baguskas](https://sites.google.com/site/saraalexabaguskas/)
+* Key collaborators: [Naomi Tague](http://www.bren.ucsb.edu/people/Faculty/christina_tague.htm), [Max Moritz](http://ourenvironment.berkeley.edu/people_profiles/max-a-moritz/), [Sara Baguskas](http://www.theloiklaboratory.net/postdoral-fellow-sara-baguskas-phd.html)
 
 <a href="/images/photo_czo_trees_shrubs.jpg"><img src="/images/photo_czo_trees_shrubs.jpg"></a>
 
