@@ -15,7 +15,7 @@ I am an Ecohydrologist in the [Tague Ecohydrology Lab](http://tagueteamlab.org/)
 
 # Research Interests
 
-My research examines the interactions and feedbacks between hydrology, vegetation, and disturbances, and how these relations vary under different climate regimes and management practices. I am particularly interested in understanding how fire and disease can lead to changes in forest composition/structure and the implication of these changes on water resources. My work involves examining complex coupled-systems using sophisticated mechanistic and statistical models, as well as remote sensing and geospatial data.
+My research examines the linkages and feedbacks between hydrology, vegetation and disturbances with a focus on how these linkages vary under different climate regimes and management practices. I am particularly interested in understanding how wildfire and forest mortality can lead to changes in forest composition/structure and the implication of these changes on water resources. My work involves examining complex coupled-systems using sophisticated mechanistic and statistical models, as well as remote sensing and geospatial data.
 
 <a href="/images/conceptual_model.png"><img src="/images/conceptual_model.png"></a>
 
