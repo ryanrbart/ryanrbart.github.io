@@ -11,8 +11,11 @@ share: false
 
 # About
 
-I am a Postdoctoral Scholar in the [Tague Ecohydrology Lab](http://tagueteamlab.org/) at the [Bren School of Environmental Science and Management](http://bren.ucsb.edu) at the [University of California, Santa Barbara](http://ucsb.edu).
+I am an Ecohydrologist in the [Tague Ecohydrology Lab](http://tagueteamlab.org/) at the [Bren School of Environmental Science and Management](http://bren.ucsb.edu) at the [University of California, Santa Barbara](http://ucsb.edu).
 
 # Research Interests
 
-I use ecohydrologic and statistical models to investigate the connections between environmental change, hydrology and ecosystems. A large component of my research to date has involved examining how land-cover change (e.g. fire, vegetation type-conversion), along with climate change, affects streamflow in California watersheds.
+My research examines the interactions and feedbacks between hydrology, vegetation, and disturbances, and how these relations vary under different climate regimes and management practices. I am particularly interested in understanding how fire and disease can lead to changes in forest composition/structure and the implication of these changes on water resources. My work involves examining complex coupled-systems using sophisticated mechanistic and statistical models, as well as remote sensing and geospatial data.
+
+<a href="/images/conceptual_model.png"><img src="/images/conceptual_model.png"></a>
+
