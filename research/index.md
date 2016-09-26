@@ -18,6 +18,7 @@ This project is examining the socio-ecological linkages between fire management 
 <figure class="third">
 	<a href="/images/photo_reflection_tree.jpg"><img src="/images/photo_reflection_tree.jpg"></a>
 	<a href="/images/photo_kaweah.jpg"><img src="/images/photo_kaweah.jpg"></a>
+	<a href="/images/photo_prethinning.jpg"><img src="/images/photo_prethinning.jpg"></a>
 </figure>
 
 
