@@ -15,7 +15,11 @@ This project is examining the socio-ecological linkages between fire management 
 
 * Key collaborators: [Naomi Tague](http://www.bren.ucsb.edu/people/Faculty/christina_tague.htm){:target="_blank"}, [Max Moritz](http://ourenvironment.berkeley.edu/people_profiles/max-a-moritz/){:target="_blank"}, [Sarah Anderson](http://fiesta.bren.ucsb.edu/~sanderson/){:target="_blank"}, [Andrew Plantinga](http://www.bren.ucsb.edu/people/Faculty/andrew_plantinga.htm){:target="_blank"}, [Maureen Kennedy](http://faculty.washington.edu/mkenn/){:target="_blank"}
 
-<a href="/images/seri_model_linkages.png"><img src="/images/seri_model_linkages.png"></a>
+<figure class="third">
+	<a href="/images/photo_reflection_tree.jpg"><img src="/images/photo_reflection_tree.jpg"></a>
+	<a href="/images/photo_kaweah.jpg"><img src="/images/photo_kaweah.jpg"></a>
+</figure>
+
 
 ----------
 
