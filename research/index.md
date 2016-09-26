@@ -15,7 +15,6 @@ This project is examining the socio-ecological linkages between fire management 
 
 * Key collaborators: [Naomi Tague](http://www.bren.ucsb.edu/people/Faculty/christina_tague.htm){:target="_blank"}, [Max Moritz](http://ourenvironment.berkeley.edu/people_profiles/max-a-moritz/){:target="_blank"}, [Sarah Anderson](http://fiesta.bren.ucsb.edu/~sanderson/){:target="_blank"}, [Andrew Plantinga](http://www.bren.ucsb.edu/people/Faculty/andrew_plantinga.htm){:target="_blank"}, [Maureen Kennedy](http://faculty.washington.edu/mkenn/){:target="_blank"}
 
-
 <a href="/images/seri_model_linkages.png"><img src="/images/seri_model_linkages.png"></a>
 
 ----------
@@ -27,13 +26,9 @@ Rising temperatures associated with climate change, as well as more frequent dis
 * Key collaborators: [Naomi Tague](http://www.bren.ucsb.edu/people/Faculty/christina_tague.htm){:target="_blank"}, [Max Moritz](http://ourenvironment.berkeley.edu/people_profiles/max-a-moritz/){:target="_blank"}, [Sara Baguskas](http://www.theloiklaboratory.net/postdoral-fellow-sara-baguskas-phd.html){:target="_blank"}
 
 
-<a href="/images/photo_czo_trees_shrubs.jpg"><img src="/images/photo_czo_trees_shrubs.jpg"></a>
+<a href="/images/photo_sequoia_tree_mortality.jpg"><img src="/images/photo_sequoia_tree_mortality.jpg"></a>
 
-[//]: # <figure class="half">
-[//]: #     <a href="/images/photo_czo_trees_shrubs.jpg"><img src="/images/photo_czo_trees_shrubs.jpg"></a>
-[//]: #     <a href="/images/seri_model_linkages.png"><img src="/images/seri_model_linkages.png"></a>
-[//]: # </figure>
-[//]: # (This may be the most platform independent comment)
+<a href="/images/photo_chaparral_rattlesnake.jpg"><img src="/images/photo_chaparral_rattlesnake.jpg"></a>
 
 ----------
 
@@ -45,16 +40,21 @@ Wildfire is a major source of episodic land-cover change in California watershed
 
 * Key collaborator: [Allen Hope](https://geography.sdsu.edu/people/ahope){:target="_blank"}
 
-<a href="/images/photo_sespe_creek.jpg"><img src="/images/photo_sespe_creek.jpg"></a>	
+<figure class="half">
+	<a href="/images/photo_postfire_oak.jpg"><img src="/images/photo_postfire_oak.jpg"></a>
+	<a href="/images/photo_big_sur_river.jpg"><img src="/images/photo_big_sur_river.jpg"></a>
+</figure>
 
 ----------
 
 ### Basin Assessment for Regionalization (BAR) Project
 
-This project combined satellite data (MODIS) with hydrological modeling to explore how land cover in southern California and the Western Cape Region of South Africa affects hydrological flow regimes at regional scales. My contributions included improving the prediction of flow duration curves in ungauged basins, evaluating streamflow response to fire in southern California and invasive vegetation in South Africa, and investigating storage configurations and parameter stability of the IHACRES rainfall-runoff model.
+This project combined satellite data (MODIS) with hydrological modeling to explore how land cover in southern California and the Western Cape Region of South Africa affects hydrological flow regimes at regional scales. My contributions included improving the prediction of flow duration curves in ungauged basins, evaluating streamflow response to wildfire in southern California and invasive vegetation in South Africa, and investigating storage configurations and parameter stability of the IHACRES rainfall-runoff model.
 
 * Key collaborators: [Allen Hope](https://geography.sdsu.edu/people/ahope){:target="_blank"}, [Doug Stow](https://geography.sdsu.edu/people/dstow){:target="_blank"}
 
-<a href="/images/photo_south_africa_stream.jpg"><img src="/images/photo_south_africa_stream.jpg"></a>
-
+<figure class="half">
+	<a href="/images/photo_south_africa_stream.jpg"><img src="/images/photo_south_africa_stream.jpg"></a>
+	<a href="/images/photo_south_africa_fynbos.jpg"><img src="/images/photo_south_africa_fynbos.jpg"></a>
+</figure>
 
