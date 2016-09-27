@@ -40,7 +40,7 @@ Rising temperatures associated with climate change, as well as more frequent dis
 
 ### Wildfire and Regional-Scale Streamflow Response
 
-Wildfire is a major source of episodic land-cover change in California watersheds and alters numerous components of the streamflow regime. For my dissertation, I used a mixed-modeling statistical approach to quantify the regional effect of wildfire on annual streamflow and baseflow recession rates (i.e. low flows) in California. I also used a parsimonious storage-discharge model to provide insight into the controls on inter-seasonal baseflow recession rate variability in California.
+Wildfire is a major source of episodic land-cover change in California watersheds and alters numerous components of the streamflow regime. For my [dissertation](/content/bart2014_dissertation.pdf), I used a mixed-modeling statistical approach to quantify the regional effect of wildfire on annual streamflow and baseflow recession rates (i.e. low flows) in California. I also used a parsimonious storage-discharge model to provide insight into the controls on inter-seasonal baseflow recession rate variability in California.
 
 * Key collaborator: [Allen Hope](https://geography.sdsu.edu/people/ahope){:target="_blank"}
 
