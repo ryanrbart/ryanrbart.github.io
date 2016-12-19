@@ -1,14 +1,12 @@
 ---
 layout: page
-title: null
+title: Current Research Projects
 image:
   feature:
   credit:
   creditlink:
 share: false
 ---
-
-# Current Research Projects
 
 ### Land Management Strategies for Confronting Risks and Consequences of Wildfire
 

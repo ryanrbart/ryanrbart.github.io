@@ -1,13 +1,12 @@
 ---
 layout: page
+title: Publications
 image:
   feature:
   credit:
   creditlink:
 share: false
 ---
-
-# Publications
 
 --------
 **2016**

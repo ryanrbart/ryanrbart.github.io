@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About
 tags: [Ryan Bart, hydrology, ecohydrology, personal website]
 image:
   feature: panorama_bristlecone_2008.jpg
@@ -8,8 +9,6 @@ image:
 share: false
 
 ---
-
-# About
 
 I am an Postdoctoral Scholar in the [Tague Ecohydrology Lab](http://tagueteamlab.org/) at the [Bren School of Environmental Science and Management](http://bren.ucsb.edu) at the [University of California, Santa Barbara](http://ucsb.edu).
 
