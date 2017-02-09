@@ -9,6 +9,11 @@ share: false
 ---
 
 --------
+**In-Press**
+
+* **Bart RR**, Tague CL. The impact of wildfire on baseflow recession rates in California. *Hydrological Processes*. [doi:10.1002/hyp.11141](http://dx.doi.org/10.1002/hyp.11141){:target="_blank"}
+
+--------
 **2016**
 
 * **Bart RR**, Tague CL, Moritz MA. [Effect of tree-to-shrub type conversion in lower montane forests of the Sierra Nevada (USA) on streamflow](/content/bart_tague_moritz2016_plos_one.pdf). *PLOS ONE*, 11(8): e0161805. [doi:10.1371/journal.pone.0161805](http://dx.doi.org/10.1371/journal.pone.0161805){:target="_blank"}
