@@ -10,7 +10,7 @@ share: false
 
 ---
 
-I am an Postdoctoral Scholar in the [Tague Ecohydrology Lab](http://tagueteamlab.org/) at the [Bren School of Environmental Science and Management](http://bren.ucsb.edu)/[Earth Research Institute](https://www.eri.ucsb.edu/) at the [University of California, Santa Barbara](http://ucsb.edu).
+I am an Postdoctoral Scholar in the [Tague Ecohydrology Lab](http://tagueteamlab.org/){:target="_blank"} at the [Bren School of Environmental Science and Management](http://bren.ucsb.edu){:target="_blank"}/[Earth Research Institute](https://www.eri.ucsb.edu/){:target="_blank"} at the [University of California, Santa Barbara](http://ucsb.edu){:target="_blank"}.
 
 # Research Interests
 
