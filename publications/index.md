@@ -11,7 +11,7 @@ share: false
 --------
 **2017**
 
-* **Bart RR**, Tague CL. The impact of wildfire on baseflow recession rates in California. *Hydrological Processes*, 31, 1662-1673.  [doi:10.1002/hyp.11141](http://dx.doi.org/10.1002/hyp.11141){:target="_blank"}
+* **Bart RR**, Tague CL. [The impact of wildfire on baseflow recession rates in California](/content/bart2017_hp.pdf). *Hydrological Processes*, 31, 1662-1673.  [doi:10.1002/hyp.11141](http://dx.doi.org/10.1002/hyp.11141){:target="_blank"}
 
 --------
 **2016**
