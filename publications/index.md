@@ -11,12 +11,14 @@ share: false
 --------
 **2017**
 
-* **Bart RR**, Tague CL. [The impact of wildfire on baseflow recession rates in California](/content/bart2017_hp.pdf). *Hydrological Processes*, 31, 1662-1673.  [doi:10.1002/hyp.11141](http://dx.doi.org/10.1002/hyp.11141){:target="_blank"}
+* **Bart RR**, Tague CL, Dennison PE. [Modeling annual grassland phenology along the central coast of California](/content/bart2017_ecosphere.pdf). *Ecosphere*, 8(7):e01875. [doi:10.1002/ecs2.1875](http://dx.doi.org/10.1002/ecs2.1875){:target="_blank"}
+
+* **Bart RR**, Tague CL. [The impact of wildfire on baseflow recession rates in California](/content/bart2017_hp.pdf). *Hydrological Processes*, 31, 1662-1673. [doi:10.1002/hyp.11141](http://dx.doi.org/10.1002/hyp.11141){:target="_blank"}
 
 --------
 **2016**
 
-* **Bart RR**, Tague CL, Moritz MA. [Effect of tree-to-shrub type conversion in lower montane forests of the Sierra Nevada (USA) on streamflow](/content/bart_tague_moritz2016_plos_one.pdf). *PLOS ONE*, 11(8): e0161805. [doi:10.1371/journal.pone.0161805](http://dx.doi.org/10.1371/journal.pone.0161805){:target="_blank"}
+* **Bart RR**, Tague CL, Moritz MA. [Effect of tree-to-shrub type conversion in lower montane forests of the Sierra Nevada (USA) on streamflow](/content/bart_tague_moritz2016_plos_one.pdf). *PLOS ONE*, 11(8):e0161805. [doi:10.1371/journal.pone.0161805](http://dx.doi.org/10.1371/journal.pone.0161805){:target="_blank"}
 
 * **Bart RR**. [A regional estimate of postfire streamflow change in California](/content/bart2016_wrr.pdf). *Water Resources Research*, 52, 1465-1478. [doi:10.1002/2014WR016553](http://dx.doi.org/10.1002/2014WR016553){:target="_blank"}
 
