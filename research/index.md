@@ -27,7 +27,7 @@ This project is examining the socio-ecological linkages between fire management 
 
 Rising temperatures associated with climate change, as well as more frequent disturbances such as fire, are increasing the likelihood of type conversion in many regions of the western U.S. For this project, we are investigating how streamflow may respond to type conversion in two California regions, the Sierra Nevada and coastal California. In the Sierra Nevada, we are using the [Regional Hydro-Ecologic Simulation System (RHESSys)](https://github.com/RHESSys/RHESSys){:target="_blank"} model to simulate the effect of tree-to-shrub type conversion under a range of climate change scenarios at the [Southern Sierra Critical Zone Observatory](http://criticalzone.org/sierra/){:target="_blank"}. In coastal California, we are simulating the effects of shrub-to-grass type conversion on streamflow. For all simulations, field measurements of water use for different vegetation types are being used to parameterize RHESSys.
 
-* Key collaborators: [Naomi Tague](http://www.bren.ucsb.edu/people/Faculty/christina_tague.htm){:target="_blank"}, [Max Moritz](http://ourenvironment.berkeley.edu/people_profiles/max-a-moritz/){:target="_blank"}, [Sara Baguskas](http://www.theloiklaboratory.net/postdoral-fellow-sara-baguskas-phd.html){:target="_blank"}
+* Key collaborators: [Naomi Tague](http://www.bren.ucsb.edu/people/Faculty/christina_tague.htm){:target="_blank"}, [Max Moritz](http://ourenvironment.berkeley.edu/people_profiles/max-a-moritz/){:target="_blank"}, [Sara Baguskas](https://geog.sfsu.edu/person/sara-baguskas){:target="_blank"}
 
 <a href="/images/photo_chaparral_rattlesnake.jpg"><img src="/images/photo_chaparral_rattlesnake.jpg"></a>
 
