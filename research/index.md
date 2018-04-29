@@ -36,11 +36,9 @@ This project is examining the socio-ecological linkages between fire management 
 
 ### Projected Climate Change Effects on Vegetation and Hydrology in California Chaparral and Sierran Conifer Ecosystems
 
-Rising temperatures associated with climate change, as well as more frequent disturbances such as fire, are increasing the likelihood of type conversion in many regions of the western U.S. For this project, we are investigating how streamflow may respond to type conversion in two California regions, the Sierra Nevada and coastal California. In the Sierra Nevada, we are using the [Regional Hydro-Ecologic Simulation System (RHESSys)](https://github.com/RHESSys/RHESSys){:target="_blank"} model to simulate the effect of tree-to-shrub type conversion under a range of climate change scenarios at the [Southern Sierra Critical Zone Observatory](http://criticalzone.org/sierra/){:target="_blank"}. In coastal California, we are simulating the effects of shrub-to-grass type conversion on streamflow. For all simulations, field measurements of water use for different vegetation types are being used to parameterize RHESSys.
+Rising temperatures associated with climate change, as well as more frequent disturbances such as fire, are increasing the likelihood of type conversion in many regions of the western U.S. For this project, we investigated how streamflow may respond to type conversion in the lower montane forest of the Sierra Nevada. We used the [Regional Hydro-Ecologic Simulation System (RHESSys)](https://github.com/RHESSys/RHESSys){:target="_blank"} model to simulate the effect of tree-to-shrub type conversion under a range of climate change scenarios at the [Southern Sierra Critical Zone Observatory](http://criticalzone.org/sierra/){:target="_blank"}. For all simulations, field measurements of water use for different vegetation types were used to parameterize RHESSys.
 
 * Key collaborators: [Naomi Tague](http://www.bren.ucsb.edu/people/Faculty/christina_tague.htm){:target="_blank"}, [Max Moritz](https://www.eri.ucsb.edu/people/max-moritz){:target="_blank"}, [Sara Baguskas](http://www.sarabaguskas.com/){:target="_blank"}
-
-<a href="/images/photo_chaparral_rattlesnake.jpg"><img src="/images/photo_chaparral_rattlesnake.jpg"></a>
 
 <a href="/images/photo_sequoia_tree_mortality.jpg"><img src="/images/photo_sequoia_tree_mortality.jpg"></a>
 
@@ -48,7 +46,7 @@ Rising temperatures associated with climate change, as well as more frequent dis
 
 ### Wildfire and Regional-Scale Streamflow Response
 
-Wildfire is a major source of episodic land-cover change in California watersheds and alters numerous components of the streamflow regime. For my [dissertation](/content/bart2014_dissertation.pdf){:target="_blank"}, I used a mixed-modeling statistical approach to quantify the regional effect of wildfire on annual streamflow and baseflow recession rates (i.e. low flows) in California. I also used a parsimonious storage-discharge model to provide insight into the controls on inter-seasonal baseflow recession rate variability in California.
+My [dissertation](/content/bart2014_dissertation.pdf){:target="_blank"} examined the regional effect of wildfire on annual streamflow and baseflow in southern and central California watersheds. Annual streamflow, which is important for the management of water resources, was examined using a mixed-effect statistical model to scale up results from individual paired-watershed experiments to produce a regional estimate of post-fire annual streamflow change. For baseflow, which is important for the management of riparian ecosystems, I examined how intra-annual changes in groundwater storage affect the rate at which baseflow recedes following a storm event, as well as how wildfire affects the rate of recession by modifying fluxes to and from groundwater.
 
 * Key collaborator: [Allen Hope](https://geography.sdsu.edu/people/ahope){:target="_blank"}
 
