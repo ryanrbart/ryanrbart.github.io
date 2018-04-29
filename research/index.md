@@ -10,7 +10,7 @@ share: false
 
 ### Disentangling the Effects of Drought and Forest Fuel Treatments on Hydrologic Processes
 
-Project details coming soon...
+Fuel treatments are often proposed as a mechanism for reducing the risk of severe wildfire in dry forests, with the potential added benefit of increasing water availability for the remaining trees as well as streamflow. These responses, however, have been shown to be both temporally and spatially variable. We are examining the hydrologic response in the [Kings River Experimental Watersheds] (https://www.fs.fed.us/psw/topics/water/kingsriver/){:target="_blank"} to forest thinning and prescribed fire treatments that were conducted during the recent California drought.
 
 * Key collaborators: [Mohammad Safeeq](http://ucwater.org/person/mohammadsafeeq){:target="_blank"}, [Joseph Wagenbrenner](https://www.fs.fed.us/rmrs/people/jwagenbrenner){:target="_blank"}
 
@@ -36,7 +36,7 @@ This project is examining the socio-ecological linkages between fire management 
 
 ### Projected Climate Change Effects on Vegetation and Hydrology in California Chaparral and Sierran Conifer Ecosystems
 
-Rising temperatures associated with climate change, as well as more frequent disturbances such as fire, are increasing the likelihood of type conversion in many regions of the western U.S. For this project, we investigated how streamflow may respond to type conversion in the lower montane forest of the Sierra Nevada. We used the [Regional Hydro-Ecologic Simulation System (RHESSys)](https://github.com/RHESSys/RHESSys){:target="_blank"} model to simulate the effect of tree-to-shrub type conversion under a range of climate change scenarios at the [Southern Sierra Critical Zone Observatory](http://criticalzone.org/sierra/){:target="_blank"}. For all simulations, field measurements of water use for different vegetation types were used to parameterize RHESSys.
+Rising temperatures associated with climate change, as well as more frequent disturbances such as fire, are increasing the likelihood of type conversion in many regions of the western U.S. For this project, we investigated how streamflow may respond to type conversion in the lower montane forest of the Sierra Nevada. We used the [Regional Hydro-Ecologic Simulation System (RHESSys)](https://github.com/RHESSys/RHESSys){:target="_blank"} model to simulate the effect of tree-to-shrub type conversion under various climate change scenarios at the [Southern Sierra Critical Zone Observatory](http://criticalzone.org/sierra/){:target="_blank"}. For all simulations, field measurements of water use for different vegetation types were used to parameterize RHESSys.
 
 * Key collaborators: [Naomi Tague](http://www.bren.ucsb.edu/people/Faculty/christina_tague.htm){:target="_blank"}, [Max Moritz](https://www.eri.ucsb.edu/people/max-moritz){:target="_blank"}, [Sara Baguskas](http://www.sarabaguskas.com/){:target="_blank"}
 
