@@ -10,7 +10,7 @@ share: false
 
 ### Disentangling the Effects of Drought and Forest Fuel Treatments on Hydrologic Processes
 
-Fuel treatments are often proposed as a mechanism for reducing the risk of severe wildfire in dry forests, with the potential added benefit of increasing water availability for the remaining trees as well as streamflow. These responses, however, have been shown to be both temporally and spatially variable. We are examining the hydrologic response in the [Kings River Experimental Watersheds] (https://www.fs.fed.us/psw/topics/water/kingsriver/){:target="_blank"} to forest thinning and prescribed fire treatments that were conducted during the recent California drought.
+Fuel treatments are often proposed as a mechanism for reducing the risk of severe wildfire in dry forests, with the potential added benefit of increasing water availability for the remaining trees as well as streamflow. These responses, however, have been shown to be both temporally and spatially variable. We are examining the hydrologic response in the [Kings River Experimental Watersheds](https://www.fs.fed.us/psw/topics/water/kingsriver/){:target="_blank"} to forest thinning and prescribed fire treatments that were conducted during the recent California drought.
 
 * Key collaborators: [Mohammad Safeeq](http://ucwater.org/person/mohammadsafeeq){:target="_blank"}, [Joseph Wagenbrenner](https://www.fs.fed.us/rmrs/people/jwagenbrenner){:target="_blank"}
 
