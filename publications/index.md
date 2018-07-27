@@ -11,7 +11,7 @@ share: false
 --------
 **2018**
 
-* Anderson SE, **Bart RR**, Kennedy MC, MacDonald AJ, Moritz MA, Plantinga AJ, Tague CL, Wibbenmeyer M. [The dangers of disaster-driven responses to climate change](https://rdcu.be/VLDs). *Nature Climate Change*. [doi:10.1038/s41558-018-0208-8](http://dx.doi.org/10.1038/s41558-018-0208-8){:target="_blank"}
+* Anderson SE, **Bart RR**, Kennedy MC, MacDonald AJ, Moritz MA, Plantinga AJ, Tague CL, Wibbenmeyer M. [The dangers of disaster-driven responses to climate change](https://rdcu.be/VLDs){:target="_blank"}. *Nature Climate Change*. [doi:10.1038/s41558-018-0208-8](http://dx.doi.org/10.1038/s41558-018-0208-8){:target="_blank"}
 
 --------
 **2017**
