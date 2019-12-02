@@ -9,6 +9,11 @@ share: false
 ---
 
 --------
+**2020**
+
+* **Bart RR**, Kennedy MC, Tague CL, McKenzie D. Integrating fire effects on vegetation carbon cycling within an ecohydrologic model. *Ecological Modelling*, 416, 108880. [doi:10.1016/j.ecolmodel.2019.108880](http://dx.doi.org/10.1016/j.ecolmodel.2019.108880){:target="_blank"}
+
+--------
 **2018**
 
 * Anderson SE, **Bart RR**, Kennedy MC, MacDonald AJ, Moritz MA, Plantinga AJ, Tague CL, Wibbenmeyer M. [The dangers of disaster-driven responses to climate change](https://rdcu.be/VLDs){:target="_blank"}. *Nature Climate Change*, 8(8), 651-653. [doi:10.1038/s41558-018-0208-8](http://dx.doi.org/10.1038/s41558-018-0208-8){:target="_blank"}
