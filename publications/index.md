@@ -11,7 +11,7 @@ share: false
 --------
 **2020**
 
-* **Bart RR**, Kennedy MC, Tague CL, McKenzie D. Integrating fire effects on vegetation carbon cycling within an ecohydrologic model. *Ecological Modelling*, 416, 108880. [doi:10.1016/j.ecolmodel.2019.108880](http://dx.doi.org/10.1016/j.ecolmodel.2019.108880){:target="_blank"}
+* **Bart RR**, Kennedy MC, Tague CL, McKenzie D. [Integrating fire effects on vegetation carbon cycling within an ecohydrologic model](/content/bart2020_eco_modelling.pdf). *Ecological Modelling*, 416, 108880. [doi:10.1016/j.ecolmodel.2019.108880](http://dx.doi.org/10.1016/j.ecolmodel.2019.108880){:target="_blank"}
 
 --------
 **2018**
