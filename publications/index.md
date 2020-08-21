@@ -11,7 +11,7 @@ share: false
 --------
 **2020**
 
-* Ackerer J, Steefel C, Liu F, **Bart RR**, Safeeq M, O'geen A, Hunsaker C, Bales R. Determining how Critical Zone structure constrains hydrogeochemical behavior of watersheds: learning from an elevation gradient in California’s Sierra Nevada. *Frontiers in Water*. [doi:10.3389/frwa.2020.00023](http://dx.doi.org/10.3389/frwa.2020.00023){:target="_blank"}
+* Ackerer J, Steefel C, Liu F, **Bart RR**, Safeeq M, O'Geen A, Hunsaker C, Bales R. [Determining how Critical Zone structure constrains hydrogeochemical behavior of watersheds: Learning from an elevation gradient in California’s Sierra Nevada](/content/ackerer2020_frontiers_in_water.pdf). *Frontiers in Water*, 2:23. [doi:10.3389/frwa.2020.00023](http://dx.doi.org/10.3389/frwa.2020.00023){:target="_blank"}
 
 * **Bart RR**, Kennedy MC, Tague CL, McKenzie D. [Integrating fire effects on vegetation carbon cycling within an ecohydrologic model](/content/bart2020_eco_modelling.pdf). *Ecological Modelling*, 416, 108880. [doi:10.1016/j.ecolmodel.2019.108880](http://dx.doi.org/10.1016/j.ecolmodel.2019.108880){:target="_blank"}
 
