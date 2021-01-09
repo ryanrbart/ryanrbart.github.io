@@ -9,6 +9,13 @@ share: false
 ---
 
 --------
+**2021**
+
+* Hanan EJ, Ren J, Tague CL, Kolden CA, Abatzoglou JT, **Bart RR**, Kennedy MC, Liu M, Adam
+JC. How climate change and fire exclusion drive wildfire regimes at actionable scales.
+*Environmental Research Letters*. [doi:10.1088/1748-9326/abd78e](https://doi.org/10.1088/1748-9326/abd78e){:target="_blank"}
+
+--------
 **2020**
 
 * **Bart RR**, Safeeq M, Wagenbrenner JW, Hunsaker CT. Do fuel treatments decrease forest mortality or increase streamflow? A case study from the Sierra Nevada (USA). *Ecohydrology* [doi:10.1002/eco.2254](https://doi.org/10.1002/eco.2254){:target="_blank"}
