@@ -15,10 +15,10 @@ share: false
 JC. How climate change and fire exclusion drive wildfire regimes at actionable scales.
 *Environmental Research Letters*. [doi:10.1088/1748-9326/abd78e](https://doi.org/10.1088/1748-9326/abd78e){:target="_blank"}
 
+* **Bart RR**, Safeeq M, Wagenbrenner JW, Hunsaker CT. Do fuel treatments decrease forest mortality or increase streamflow? A case study from the Sierra Nevada (USA). *Ecohydrology*, 14, e2254. [doi:10.1002/eco.2254](https://doi.org/10.1002/eco.2254){:target="_blank"}
+
 --------
 **2020**
-
-* **Bart RR**, Safeeq M, Wagenbrenner JW, Hunsaker CT. Do fuel treatments decrease forest mortality or increase streamflow? A case study from the Sierra Nevada (USA). *Ecohydrology* [doi:10.1002/eco.2254](https://doi.org/10.1002/eco.2254){:target="_blank"}
 
 * Ackerer J, Steefel C, Liu F, **Bart RR**, Safeeq M, O'Geen A, Hunsaker C, Bales R. [Determining how Critical Zone structure constrains hydrogeochemical behavior of watersheds: Learning from an elevation gradient in California’s Sierra Nevada](/content/ackerer2020_frontiers_in_water.pdf). *Frontiers in Water*, 2:23. [doi:10.3389/frwa.2020.00023](http://dx.doi.org/10.3389/frwa.2020.00023){:target="_blank"}
 
