@@ -11,6 +11,8 @@ share: false
 --------
 **2021**
 
+* **Bart RR**, Ray RL, Conklin MH, Safeeq M, Saksa PC, Tague CL, Bales RC. Assessing the effects of forest biomass reductions on forest health and streamflow. *Hydrological Processes*.
+
 * Hanan EJ, Ren J, Tague CL, Kolden CA, Abatzoglou JT, **Bart RR**, Kennedy MC, Liu M, Adam
 JC. [How climate change and fire exclusion drive wildfire regimes at actionable scales](/content/hanan2021_erl.pdf). *Environmental Research Letters*, 16(2), 024051. [doi:10.1088/1748-9326/abd78e](https://doi.org/10.1088/1748-9326/abd78e){:target="_blank"}
 
