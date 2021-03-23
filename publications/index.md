@@ -13,7 +13,7 @@ share: false
 
 * Kennedy MC, **Bart RR**, Tague CL, Choate JS. Does hot and dry equal more wildfire? Contrasting short and long-term climate effects on fire in the Sierra Nevada, CA. *Ecosphere*.
 
-* **Bart RR**, Ray RL, Conklin MH, Safeeq M, Saksa PC, Tague CL, Bales RC. Assessing the effects of forest biomass reductions on forest health and streamflow. *Hydrological Processes*. [doi:10.1002/hyp.14114](https://doi.org/10.1002/hyp.14114){:target="_blank"}
+* **Bart RR**, Ray RL, Conklin MH, Safeeq M, Saksa PC, Tague CL, Bales RC. [Assessing the effects of forest biomass reductions on forest health and streamflow](/content/bart2021_hp_escholar.pdf). *Hydrological Processes*, 35, e14114. [doi:10.1002/hyp.14114](https://doi.org/10.1002/hyp.14114){:target="_blank"}
 
 * Hanan EJ, Ren J, Tague CL, Kolden CA, Abatzoglou JT, **Bart RR**, Kennedy MC, Liu M, Adam
 JC. [How climate change and fire exclusion drive wildfire regimes at actionable scales](/content/hanan2021_erl.pdf). *Environmental Research Letters*, 16(2), 024051. [doi:10.1088/1748-9326/abd78e](https://doi.org/10.1088/1748-9326/abd78e){:target="_blank"}
