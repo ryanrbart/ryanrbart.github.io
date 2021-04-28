@@ -11,7 +11,7 @@ share: false
 --------
 **2021**
 
-* Safeeq M, **Bart RR**, Pelak NF, Singh CK, Dralle DN, Hartsough P, Wagenbrenner JW. How realistic are water-balance closure assumptions? A demonstration from the southern Sierra Critical Zone Observatory and Kings River Experimental Watersheds. *Hydrological Processes*.
+* Safeeq M, **Bart RR**, Pelak NF, Singh CK, Dralle DN, Hartsough P, Wagenbrenner JW. How realistic are water-balance closure assumptions? A demonstration from the southern Sierra Critical Zone Observatory and Kings River Experimental Watersheds. *Hydrological Processes*. [doi:10.1002/hyp.14199](https://doi.org/10.1002/hyp.14199){:target="_blank"}
 
 * Kennedy MC, **Bart RR**, Tague CL, Choate JS. Does hot and dry equal more wildfire? Contrasting short and long-term climate effects on fire in the Sierra Nevada, CA. *Ecosphere*.
 
