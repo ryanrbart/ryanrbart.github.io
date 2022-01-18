@@ -9,9 +9,14 @@ share: false
 ---
 
 --------
+**2022**
+
+* Yang Y, Berhe AA, Hunsaker CT, Johnson DW, Safeeq M, Barnes ME, McCorkle EP, Stacy EM, Bales RC, **Bart RR**, Goulden ML, Hart SC. Impacts of climate and disturbance on nutrient fluxes and stoichiometry in mixed-conifer forests. *Biogeochemistry*. [doi:10.1007/s10533-021-00882-9](https://doi.org/10.1007/s10533-021-00882-9){:target="_blank"}
+
+--------
 **2021**
 
-* Safeeq M, **Bart RR**, Pelak NF, Singh CK, Dralle DN, Hartsough P, Wagenbrenner JW. How realistic are water-balance closure assumptions? A demonstration from the southern Sierra Critical Zone Observatory and Kings River Experimental Watersheds. *Hydrological Processes*, 35(5), e14199. [doi:10.1002/hyp.14199](https://doi.org/10.1002/hyp.14199){:target="_blank"}
+* Safeeq M, **Bart RR**, Pelak NF, Singh CK, Dralle DN, Hartsough P, Wagenbrenner JW. [How realistic are water-balance closure assumptions? A demonstration from the southern Sierra Critical Zone Observatory and Kings River Experimental Watersheds](/content/safeeq2021_hp.pdf). *Hydrological Processes*, 35(5), e14199. [doi:10.1002/hyp.14199](https://doi.org/10.1002/hyp.14199){:target="_blank"}
 
 * Kennedy MC, **Bart RR**, Tague CL, Choate JS. [Does hot and dry equal more wildfire? Contrasting short- and long-term climate effects on fire in the Sierra Nevada, CA](/content/kennedy2021_ecosphere.pdf). *Ecosphere*, 12(7), e03657. [doi:10.1002/ecs2.3657](http://doi.org/10.1002/ecs2.3657){:target="_blank"}
 
