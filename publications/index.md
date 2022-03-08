@@ -11,7 +11,7 @@ share: false
 --------
 **2022**
 
-* Yang Y, Berhe AA, Hunsaker CT, Johnson DW, Safeeq M, Barnes ME, McCorkle EP, Stacy EM, Bales RC, **Bart RR**, Goulden ML, Hart SC. Impacts of climate and disturbance on nutrient fluxes and stoichiometry in mixed-conifer forests. *Biogeochemistry*. [doi:10.1007/s10533-021-00882-9](https://doi.org/10.1007/s10533-021-00882-9){:target="_blank"}
+* Yang Y, Berhe AA, Hunsaker CT, Johnson DW, Safeeq M, Barnes ME, McCorkle EP, Stacy EM, Bales RC, **Bart RR**, Goulden ML, Hart SC. Impacts of climate and disturbance on nutrient fluxes and stoichiometry in mixed-conifer forests. *Biogeochemistry*, 158, 1-20. [doi:10.1007/s10533-021-00882-9](https://doi.org/10.1007/s10533-021-00882-9){:target="_blank"}
 
 --------
 **2021**
