@@ -9,6 +9,11 @@ share: false
 ---
 
 --------
+**2023**
+
+* Ren J, Hanan E, Hicke J, Kolden C, Abatzoglou JT, Tague C, **Bart RR**, Kennedy MC, Liu M, Adam J. Bark beetle effects on fire regimes depend on underlying fuel modifications in semiarid systems. *Journal of Advances in Modeling Earth Systems (JAMES)*. [doi:10.1029/2022MS003073](https://doi.org/10.1029/2022MS003073){:target="_blank"}
+
+--------
 **2022**
 
 * Yang Y, Berhe AA, Hunsaker CT, Johnson DW, Safeeq M, Barnes ME, McCorkle EP, Stacy EM, Bales RC, **Bart RR**, Goulden ML, Hart SC. Impacts of climate and disturbance on nutrient fluxes and stoichiometry in mixed-conifer forests. *Biogeochemistry*, 158, 1-20. [doi:10.1007/s10533-021-00882-9](https://doi.org/10.1007/s10533-021-00882-9){:target="_blank"}
