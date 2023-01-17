@@ -11,7 +11,7 @@ share: false
 --------
 **2023**
 
-* Ren J, Hanan E, Hicke J, Kolden C, Abatzoglou JT, Tague C, **Bart RR**, Kennedy MC, Liu M, Adam J. Bark beetle effects on fire regimes depend on underlying fuel modifications in semiarid systems. *Journal of Advances in Modeling Earth Systems (JAMES)*. [doi:10.1029/2022MS003073](https://doi.org/10.1029/2022MS003073){:target="_blank"}
+* Ren J, Hanan EJ, Hicke JA, Kolden CA, Abatzoglou JT, Tague CL, **Bart RR**, Kennedy MC, Liu M, Adam JC. Bark beetle effects on fire regimes depend on underlying fuel modifications in semiarid systems. *Journal of Advances in Modeling Earth Systems (JAMES)*. [doi:10.1029/2022MS003073](https://doi.org/10.1029/2022MS003073){:target="_blank"}
 
 --------
 **2022**
