@@ -10,7 +10,7 @@ share: false
 
 ---
 
-I am an Assistant Project Scientist in the [Sierra Nevada Research Institute](https://snri.ucmerced.edu/){:target="_blank"} at the [University of California, Merced](https://www.ucmerced.edu/){:target="_blank"}.
+I am an Assistant Professional Researcher in the [Sierra Nevada Research Institute](https://snri.ucmerced.edu/){:target="_blank"} at the [University of California, Merced](https://www.ucmerced.edu/){:target="_blank"}.
 
 # Research Interests
 
