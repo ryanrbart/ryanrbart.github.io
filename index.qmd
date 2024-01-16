@@ -34,8 +34,8 @@ My research explores the linkages and feedbacks between water, vegetation, and w
 
 ## RHESSys
 
-I am a developer for [RHESSys](https://github.com/RHESSys/RHESSys){target="_blank"}, a process-based ecohydrologic model designed to simulate water, vegetation, nutrient, and fire processes.
-I also design and create tools to make modeling with RHESSys more user friendly, including the R package [RHESSysIOinR](https://github.com/RHESSys/RHESSysIOinR){target="_blank"}.
+I am a developer for [RHESSys](http://rhessys.github.io), a process-based ecohydrologic model designed to simulate water, vegetation, nutrient, and fire processes.
+I also design and create tools to make modeling with RHESSys more user friendly, including the R package [RHESSysIOinR](https://github.com/RHESSys/RHESSysIOinR).
 
 If you are interested in learning more about how to use RHESSys, I am writing a book about how to install, setup, and run simulations using the model:
 
