@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "research2.html",
-    "href": "research2.html",
-    "title": "Research2",
-    "section": "",
-    "text": "## Ecoinformatics\nGeneral point about ecoinformatics. Improve the RHESSys model.\nGeneral points about RHESSys, similar to text on RHESSys webpage.\nR packages in development.\nBook\nPapers that improve functionality of RHESSys.\nFigures of RHESSys?\n## Ecohydrology and Disturbances\nDisturbances alter ecohydrologic functioning, affecting both the amount of vegetation on a landscape, but also the water availability that vegetation as well as human communities. Further, the time period for when these systems are altered can range from less than a year to decades.\nCARB work. What management is necessary to balance (optimize) carbon sequestration, water resources, and reduce fire risk?\nThese can be more specific topics (research questions?) within the broad domains. (shorten these names)"
-  },
-  {
-    "objectID": "research2.html#ecohydrology-and-climate-change",
-    "href": "research2.html#ecohydrology-and-climate-change",
-    "title": "Research2",
-    "section": "Ecohydrology and Climate Change",
-    "text": "Ecohydrology and Climate Change\nClimate change is already altering water, vegetation, and wildfire on our natural lands. An increasing percentage of precipitation in our mountains falls as rain instead of snow, shifting the timing of streamflow. Higher temperatures are increasing vegetation water stress, making forests more vulnerable to drought. Higher temperatures are also decreasing fuel moisture, making our natural lands easier to burn.\nBecause climate change alters water, vegetation, and fire; predicting the effects of climate change can get complicated. - Often requires a systems approach and processed based modeling, since the recent past doesn’t provide…\nrequires understanding the interactions between the processes.\nThe effects of climate change on vegetation\nAn example of the type of climate-change related research questions we investigate in the lab include:\n\nResearch Questions:\n\nHow does climate-induced changes in drought and wildfire lead to changes in vegetation composition/structure and what are the implication of these changes on watershed hydrology?"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ryan R. Bart",
-    "section": "",
-    "text": "Hello! I am Ryan Bart, an Assistant Professional Researcher in the Sierra Nevada Research Institute at the University of California, Merced. My research explores the linkages and feedbacks between water, vegetation, and wildfire; with a focus on how these linkages vary with climate change and forest management practices. I was a born and raised in California, and after having lived up and down the state, I currently reside in Merced with my wife, Ana, and our two boys.\n\n\n\nI am a developer for RHESSys, a process-based ecohydrologic model designed to simulate water, vegetation, nutrient, and fire processes. I also design and create tools to make modeling with RHESSys more user friendly, including the R package RHESSysIOinR.\nIf you are interested in learning more about how to use RHESSys, I am writing a book about how to install, setup, and run simulations using the model:\n\nEcohydrological Modeling with RHESSys\n\nI also organize a RHESSys Conference which will be held this year on 1-2 May 2024:\n\nRHESSys Conference 2024\n\nLooking for someone to help integrate RHESSys into your own project? Please feel free to contact me. I am always open to new collaborative research opportunities."
-  },
-  {
-    "objectID": "index.html#bio",
-    "href": "index.html#bio",
-    "title": "Ryan R. Bart",
-    "section": "",
-    "text": "Hello! I am Ryan Bart, an Assistant Professional Researcher in the Sierra Nevada Research Institute at the University of California, Merced. My research explores the linkages and feedbacks between water, vegetation, and wildfire; with a focus on how these linkages vary with climate change and forest management practices. I was a born and raised in California, and after having lived up and down the state, I currently reside in Merced with my wife, Ana, and our two boys."
-  },
-  {
-    "objectID": "index.html#rhessys",
-    "href": "index.html#rhessys",
-    "title": "Ryan R. Bart",
-    "section": "",
-    "text": "I am a developer for RHESSys, a process-based ecohydrologic model designed to simulate water, vegetation, nutrient, and fire processes. I also design and create tools to make modeling with RHESSys more user friendly, including the R package RHESSysIOinR.\nIf you are interested in learning more about how to use RHESSys, I am writing a book about how to install, setup, and run simulations using the model:\n\nEcohydrological Modeling with RHESSys\n\nI also organize a RHESSys Conference which will be held this year on 1-2 May 2024:\n\nRHESSys Conference 2024\n\nLooking for someone to help integrate RHESSys into your own project? Please feel free to contact me. I am always open to new collaborative research opportunities."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "The Bart Ecohydrology Lab is based in the Sierra Nevada Research Institute at the University of California, Merced. Ecohydrology is the study of how hydrological and ecological systems interact. Ecohydrology is important because water availability and vegetation growth are tightly coupled, particularly in water-limited environments such as California. Changes to the ecohydrologic functioning of a watershed has implications for forest health, carbon sequestration, water resources, and fire risk.\nResearch in the lab is used to advance scientific understanding, generate decision-support tools, and to inform policy. While the lab’s research is frequently based in the Sierra Nevada and California, we have research projects throughout North America and the world. We use a mix of tools, including biophysical models, statistical models, and remote sensing.\nResearch in the lab focuses on three broad domains.\n\nEcoinformatics\nEcoinformatics is the science of using computational tools and data analysis to investigate ecological systems. We use ecoinformatics to generate novel approaches for investigating water, carbon, and nutrient fluxes.\n\nEcohydrology and Disturbance\nEcosystem disturbances come in many types, including wildfire, bark beetles, drought, and forest management. We examine how disturbances alter ecohydrologic functioning, ranging from vegetation resilience to water supply for human communities.\n\nEcohydrology and Climate Change\nClimate change affects many ecohydrologic processes, altering functioning in ways that are not always obvious and sometimes counterintuitive. We are interested in predicting the effects of climate change and understanding how management actions can be used to mitigate its worse consequences.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntest"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -117,5 +75,33 @@
     "title": "Publications",
     "section": "2010",
     "text": "2010\n\nBart RR, Hope AS. Streamflow response to fire in large catchments of a Mediterranean-climate region using paired-catchment experiments. Journal of Hydrology, 388, 370-378. doi:10.1016/j.jhydrol.2010.05.016"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The Bart Ecohydrology Lab is based in the Sierra Nevada Research Institute at the University of California, Merced. Ecohydrology is the study of how hydrological and ecological systems interact. Ecohydrology is important because water availability and vegetation growth are tightly coupled, particularly in water-limited environments such as California. Changes to the ecohydrologic functioning of a watershed has implications for forest health, carbon sequestration, water resources, and fire risk.\nResearch in the lab is used to advance scientific understanding, generate decision-support tools, and to inform policy. While the lab’s research is frequently based in the Sierra Nevada and California, we have research projects throughout North America and the world. We use a mix of tools, including biophysical models, statistical models, and remote sensing.\nResearch in the lab focuses on three broad domains.\n\nEcoinformatics\nEcoinformatics is the science of using computational tools and data analysis to investigate ecological systems. We use ecoinformatics to generate novel approaches for investigating water, carbon, and nutrient fluxes.\n\nEcohydrology and Disturbance\nEcosystem disturbances come in many types, including wildfire, bark beetles, drought, and forest management. We examine how disturbances alter ecohydrologic functioning, ranging from vegetation resilience to water supply for human communities.\n\nEcohydrology and Climate Change\nClimate change affects many ecohydrologic processes, altering functioning in ways that are not always obvious and sometimes counterintuitive. We are interested in predicting the effects of climate change and understanding how management actions can be used to mitigate its worse consequences."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ryan R. Bart",
+    "section": "",
+    "text": "Hello! I am Ryan Bart, an Assistant Professional Researcher in the Sierra Nevada Research Institute at the University of California, Merced. My research explores the linkages and feedbacks between water, vegetation, and wildfire; with a focus on how these linkages vary with climate change and forest management practices. I was a born and raised in California, and after having lived up and down the state, I currently reside in Merced with my wife, Ana, and our two boys.\n\n\n\nI am a developer for RHESSys, a process-based ecohydrologic model designed to simulate water, vegetation, nutrient, and fire processes. I also design and create tools to make modeling with RHESSys more user friendly, including the R package RHESSysIOinR.\nIf you are interested in learning more about how to use RHESSys, I am writing a book about how to install, setup, and run simulations using the model:\n\nEcohydrological Modeling with RHESSys\n\nI also organize a RHESSys Conference which will be held this year on 1-2 May 2024:\n\nRHESSys Conference 2024\n\nLooking for someone to help integrate RHESSys into your own project? Please feel free to contact me. I am always open to new collaborative research opportunities."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Ryan R. Bart",
+    "section": "",
+    "text": "Hello! I am Ryan Bart, an Assistant Professional Researcher in the Sierra Nevada Research Institute at the University of California, Merced. My research explores the linkages and feedbacks between water, vegetation, and wildfire; with a focus on how these linkages vary with climate change and forest management practices. I was a born and raised in California, and after having lived up and down the state, I currently reside in Merced with my wife, Ana, and our two boys."
+  },
+  {
+    "objectID": "index.html#rhessys",
+    "href": "index.html#rhessys",
+    "title": "Ryan R. Bart",
+    "section": "",
+    "text": "I am a developer for RHESSys, a process-based ecohydrologic model designed to simulate water, vegetation, nutrient, and fire processes. I also design and create tools to make modeling with RHESSys more user friendly, including the R package RHESSysIOinR.\nIf you are interested in learning more about how to use RHESSys, I am writing a book about how to install, setup, and run simulations using the model:\n\nEcohydrological Modeling with RHESSys\n\nI also organize a RHESSys Conference which will be held this year on 1-2 May 2024:\n\nRHESSys Conference 2024\n\nLooking for someone to help integrate RHESSys into your own project? Please feel free to contact me. I am always open to new collaborative research opportunities."
   }
 ]
