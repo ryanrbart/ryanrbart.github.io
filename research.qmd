@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-The Bart Ecohydrology Lab is based in the [Sierra Nevada Research Institute](https://snri.ucmerced.edu/){target="_blank"} at the [University of California, Merced](https://www.ucmerced.edu/){target="_blank"}.
+The Bart Ecohydrology Lab is based in the [Sierra Nevada Research Institute](https://snri.ucmerced.edu/) at the [University of California, Merced](https://www.ucmerced.edu/).
 Ecohydrology is the study of how hydrological and ecological systems interact.
 Ecohydrology is important because water availability and vegetation growth are tightly coupled, particularly in water-limited environments such as California.
 Changes to the ecohydrologic functioning of a watershed has implications for forest health, carbon sequestration, water resources, and fire risk.

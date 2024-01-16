@@ -29,7 +29,7 @@ resources: content/bart_cv.pdf
 
 ## Bio
 
-Hello! I am Ryan Bart, an Assistant Professional Researcher in the [Sierra Nevada Research Institute](https://snri.ucmerced.edu/){target="_blank"} at the [University of California, Merced](https://www.ucmerced.edu/){target="_blank"}.
+Hello! I am Ryan Bart, an Assistant Professional Researcher in the [Sierra Nevada Research Institute](https://snri.ucmerced.edu/) at the [University of California, Merced](https://www.ucmerced.edu/).
 My research explores the linkages and feedbacks between water, vegetation, and wildfire; with a focus on how these linkages vary with climate change and forest management practices. I was a born and raised in California, and after having lived up and down the state, I currently reside in Merced with my wife, Ana, and our two boys.
 
 ## RHESSys
