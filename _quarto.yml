@@ -5,30 +5,14 @@ resources:
   - CNAME
 
 website:
-  title: "Bart Ecohydrology Lab"
+  title: "Ryan R. Bart"
   site-url: https://ryanrbart.com
-  description: "Ryan R. Bart is a disturbance ecohydrologist at UC Merced."
+  description: "Ryan R. Bart"
   favicon: img/favicon.png
   open-graph: true
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: publications.qmd
-        text: Publications
-      - href: rhessys_book
-        text: RHESSys Book
-
-  page-footer:
-    left: "© 2024 Ryan R. Bart"
 
 format:
   html:
-    theme:
-      - simplex
-      - custom.scss
-    fontsize: 1em
+    theme: simplex
     css: styles.css
-    toc: true
+

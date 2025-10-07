@@ -1,11 +1,11 @@
 ---
 title: "Ryan R. Bart"
 about:
-    template: trestles
+    template: broadside
     links:
         - text: Email
           icon: envelope
-          href: mailto:rbart3@ucmerced.edu
+          href: mailto:rrbart@gmail.com
         - text: Scholar
           icon: google
           href: https://scholar.google.com/citations?user=Uon6JToAAAAJ
@@ -15,9 +15,6 @@ about:
         - text: LinkedIn
           icon: linkedin
           href: https://www.linkedin.com/in/ryanrbart/
-        - text: Twitter
-          icon: twitter
-          href: https://twitter.com/ryanrbart
         - text: C.V.
           icon: file-text
           href: content/bart_cv.pdf
@@ -27,26 +24,12 @@ resources: content/bart_cv.pdf
 
 ::: column-page
 
-## Bio
+Hello! I am Ryan Bart, a scientist at the [Califonia Air Resources Board (CARB)](https://ww2.arb.ca.gov/) working in the [Nature-Based Strategies Section](https://ww2.arb.ca.gov/our-work/programs/nature-based-strategies/about).
+In my role at CARB, I use ecosystem modeling of present-day and future conditions to help quantify the contribution of Natural and Working Lands to California's [goal](https://lci.ca.gov/climate/carbon-neutrality.html) of carbon neutrality by 2045.
 
-Hello! I am Ryan Bart, an Assistant Professional Researcher in the [Sierra Nevada Research Institute](https://snri.ucmerced.edu/){target="_blank"} at the [University of California, Merced](https://www.ucmerced.edu/){target="_blank"}.
-My research explores the linkages and feedbacks between water, vegetation, and wildfire; with a focus on how these linkages vary with climate change and forest management practices. I was a born and raised in California, and after having lived up and down the state, I currently reside in Merced with my wife, Ana, and our two boys.
+I am trained broadly as a geographer and, more specifically, as an ecohydrologist—the latter being the study of how hydrological and ecological systems interact.
+I am also a principal developer for [RHESSys](http://rhessys.github.io), a process-based ecohydrologic model designed to simulate feedbacks between vegetation, water, nutrients, and fire.
 
-## RHESSys
-
-I am a developer for [RHESSys](http://rhessys.github.io), a process-based ecohydrologic model designed to simulate water, vegetation, nutrient, and fire processes.
-I also design and create tools to make modeling with RHESSys more user friendly, including the R package [RHESSysIOinR](https://github.com/RHESSys/RHESSysIOinR).
-
-If you are interested in learning more about how to use RHESSys, I am writing a book about how to install, setup, and run simulations using the model:
-
--   [Ecohydrological Modeling with RHESSys](https://ryanrbart.com/rhessys_book)
-
-I also organize a RHESSys Conference which will be held this year on 1-2 May 2024:
-
-- [RHESSys Conference 2024](http://rhessys.github.io/conferences/conference_2024)
-
-Looking for someone to help integrate RHESSys into your own project?
-Please feel free to contact me.
-I am always open to new collaborative research opportunities.
+I was a born and raised in California, and after having lived up and down the state, I currently reside in the Sacramento region with my wife, Ana, and our two boys.
 
 :::
