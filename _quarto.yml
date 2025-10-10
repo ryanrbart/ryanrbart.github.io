@@ -13,6 +13,6 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: lux
     css: styles.css
 
